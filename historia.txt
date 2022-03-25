@@ -1,11 +1,1 @@
-esta es la historia de mich por tercera vez
-
-tengo 31 años y quiero un empleo remoto
-
-
-
-en camara se ponia nervioso
-
-
-hoy esta desempleado
-prueba de commit y diff
+editamos todo para ver cambios en el commit
