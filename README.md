@@ -11,5 +11,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * usar el editor pandao.github para hacer este readme
 * creado por Mich DMark (user name en todas mis redes sociales)
+* para trabajar multi plataforma y en la nube
+* el blog sera para power user y usuarios basicos
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
